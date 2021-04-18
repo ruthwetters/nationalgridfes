@@ -1,1 +1,24 @@
 Colour choices
+['Biomass (co-firing)', #99CC66
+'EfW Incineration', #C7C7EC
+'Biomass (dedicated)', #ACD582
+'Advanced Conversion Technologies', #9E9EDF
+'Anaerobic Digestion', #E3F1D5
+'Large Hydro', #E8E8FF
+'Small Hydro', #B9B9FF
+'Battery', #FF0066
+'Landfill Gas', #D1E8B9
+'Solar Photovoltaics', #FFFF00
+'Sewage Sludge Digestion', #BEDF9E
+'Tidal Barrage and Tidal Stream', #5D5DFF
+'Shoreline Wave', #0000FF
+'Wind Offshore', #FF99CC
+'Wind Onshore', #FFC7E3
+'Hot Dry Rocks (HDR)', #FF4690
+'Pumped Storage Hydroelectricity',#1717FF
+'Liquid Air Energy Storage', #FFB9D5
+'Flywheels', #FF8BB9
+'Fuel Cell (Hydrogen)', #E39074
+'Compressed Air Energy Storage', #6633CC ]
+
+I tried to use palette generators, but did not find one that could generate 18 colours. I therefore started from a base palette and tweaked the hue and saturation to indicate relatedness, e.g. shades of green for organic materials, blue for hydroelectricity, red for storage, purple for incineration and advanced technologies. I assigned yellow to solar and pink to wind, as these are both highly represented and not related to each other or other technologies. I found colour a very difficult issue to work with, due to the number of technologies and the potential to create associations.
